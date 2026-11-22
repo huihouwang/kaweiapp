@@ -1,0 +1,937 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "id": "street",
+      "title": "街边",
+      "description": "街角、门店和城市道路，拍自然松弛的人像"
+    },
+    {
+      "id": "cafe",
+      "title": "咖啡店",
+      "description": "桌边、窗边和座位，利用环境与柔和光线"
+    },
+    {
+      "id": "park",
+      "title": "公园",
+      "description": "草地、长椅和树荫，适合轻松的环境人像"
+    },
+    {
+      "id": "sea",
+      "title": "海边",
+      "description": "海岸、栏杆和沙滩，让人物与海景一起入画"
+    },
+    {
+      "id": "grass",
+      "title": "草原",
+      "description": "开阔草地和天空，适合舒展、动态的姿势"
+    },
+    {
+      "id": "mountain",
+      "title": "山上",
+      "description": "山路、观景台和岩石，突出空间与层次"
+    }
+  ],
+  "shots": [
+    {
+      "id": "street-01",
+      "title": "街边走动 01",
+      "subtitle": "走动 · 竖拍 · 热度 5077",
+      "scenes": [
+        "street"
+      ],
+      "pose": "walk",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-01-photo.jpg",
+      "overlay": "catalog-final/street/street-01-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "放慢速度自然向前走，眼神不要一直看镜头，连续拍多张。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-02",
+      "title": "街边坐着 02",
+      "subtitle": "坐着 · 竖拍 · 热度 374",
+      "scenes": [
+        "street"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-02-photo.jpg",
+      "overlay": "catalog-final/street/street-02-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-03",
+      "title": "街边站着 03",
+      "subtitle": "站着 · 竖拍 · 热度 53",
+      "scenes": [
+        "street"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-03-photo.jpg",
+      "overlay": "catalog-final/street/street-03-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-04",
+      "title": "街边走动 04",
+      "subtitle": "走动 · 竖拍 · 热度 1359",
+      "scenes": [
+        "street"
+      ],
+      "pose": "walk",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-04-photo.jpg",
+      "overlay": "catalog-final/street/street-04-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "放慢速度自然向前走，眼神不要一直看镜头，连续拍多张。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-05",
+      "title": "街边站着 05",
+      "subtitle": "站着 · 竖拍 · 热度 2119",
+      "scenes": [
+        "street"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-05-photo.jpg",
+      "overlay": "catalog-final/street/street-05-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-06",
+      "title": "街边站着 06",
+      "subtitle": "站着 · 竖拍 · 热度 1430",
+      "scenes": [
+        "street"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-06-photo.jpg",
+      "overlay": "catalog-final/street/street-06-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-07",
+      "title": "街边站着 07",
+      "subtitle": "站着 · 竖拍 · 热度 28",
+      "scenes": [
+        "street"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-07-photo.jpg",
+      "overlay": "catalog-final/street/street-07-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-08",
+      "title": "街边坐着 08",
+      "subtitle": "坐着 · 竖拍 · 热度 96",
+      "scenes": [
+        "street"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-08-photo.jpg",
+      "overlay": "catalog-final/street/street-08-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-09",
+      "title": "街边走动 09",
+      "subtitle": "走动 · 竖拍 · 热度 4324",
+      "scenes": [
+        "street"
+      ],
+      "pose": "walk",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-09-photo.jpg",
+      "overlay": "catalog-final/street/street-09-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "放慢速度自然向前走，眼神不要一直看镜头，连续拍多张。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "street-10",
+      "title": "街边站着 10",
+      "subtitle": "站着 · 竖拍 · 热度 166",
+      "scenes": [
+        "street"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/street/street-10-photo.jpg",
+      "overlay": "catalog-final/street/street-10-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "优先找建筑阴影或柔和侧光，让脸朝向街道较亮的一侧。"
+    },
+    {
+      "id": "cafe-01",
+      "title": "咖啡店坐着 01",
+      "subtitle": "坐着 · 竖拍 · 热度 108",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-01-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-01-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-02",
+      "title": "咖啡店坐着 02",
+      "subtitle": "坐着 · 竖拍 · 热度 6776",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-02-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-02-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-03",
+      "title": "咖啡店坐着 03",
+      "subtitle": "坐着 · 竖拍 · 热度 13000",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-03-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-03-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-04",
+      "title": "咖啡店坐着 04",
+      "subtitle": "坐着 · 竖拍 · 热度 2978",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-04-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-04-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-05",
+      "title": "咖啡店坐着 05",
+      "subtitle": "坐着 · 竖拍 · 热度 32",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-05-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-05-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-06",
+      "title": "咖啡店坐着 06",
+      "subtitle": "坐着 · 竖拍 · 热度 419",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-06-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-06-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-07",
+      "title": "咖啡店坐着 07",
+      "subtitle": "坐着 · 竖拍 · 热度 1208",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-07-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-07-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-08",
+      "title": "咖啡店坐着 08",
+      "subtitle": "坐着 · 竖拍 · 热度 551",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-08-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-08-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-09",
+      "title": "咖啡店坐着 09",
+      "subtitle": "坐着 · 竖拍 · 热度 265",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-09-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-09-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "cafe-10",
+      "title": "咖啡店坐着 10",
+      "subtitle": "坐着 · 竖拍 · 热度 104",
+      "scenes": [
+        "cafe"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/cafe/cafe-10-photo.jpg",
+      "overlay": "catalog-final/cafe/cafe-10-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "靠近窗户但避开直射光，让窗光从侧前方照到脸上。"
+    },
+    {
+      "id": "park-01",
+      "title": "公园站着 01",
+      "subtitle": "站着 · 竖拍 · 热度 174",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-01-photo.jpg",
+      "overlay": "catalog-final/park/park-01-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-02",
+      "title": "公园站着 02",
+      "subtitle": "站着 · 竖拍 · 热度 3386",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-02-photo.jpg",
+      "overlay": "catalog-final/park/park-02-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-03",
+      "title": "公园站着 03",
+      "subtitle": "站着 · 竖拍 · 热度 3394",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-03-photo.jpg",
+      "overlay": "catalog-final/park/park-03-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-04",
+      "title": "公园站着 04",
+      "subtitle": "站着 · 竖拍 · 热度 1764",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-04-photo.jpg",
+      "overlay": "catalog-final/park/park-04-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-05",
+      "title": "公园站着 05",
+      "subtitle": "站着 · 竖拍 · 热度 1715",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-05-photo.jpg",
+      "overlay": "catalog-final/park/park-05-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-06",
+      "title": "公园站着 06",
+      "subtitle": "站着 · 竖拍 · 热度 63",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-06-photo.jpg",
+      "overlay": "catalog-final/park/park-06-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-07",
+      "title": "公园站着 07",
+      "subtitle": "站着 · 竖拍 · 热度 165",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-07-photo.jpg",
+      "overlay": "catalog-final/park/park-07-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-08",
+      "title": "公园走动 08",
+      "subtitle": "走动 · 竖拍 · 热度 535",
+      "scenes": [
+        "park"
+      ],
+      "pose": "walk",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-08-photo.jpg",
+      "overlay": "catalog-final/park/park-08-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "放慢速度自然向前走，眼神不要一直看镜头，连续拍多张。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-09",
+      "title": "公园站着 09",
+      "subtitle": "站着 · 竖拍 · 热度 683",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-09-photo.jpg",
+      "overlay": "catalog-final/park/park-09-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "park-10",
+      "title": "公园站着 10",
+      "subtitle": "站着 · 竖拍 · 热度 1195",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/park/park-10-photo.jpg",
+      "overlay": "catalog-final/park/park-10-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "选择完整树荫，避开叶缝在脸上形成的斑驳亮点。"
+    },
+    {
+      "id": "sea-01",
+      "title": "海边站着 01",
+      "subtitle": "站着 · 竖拍 · 热度 26000",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-01-photo.jpg",
+      "overlay": "catalog-final/sea/sea-01-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-02",
+      "title": "海边站着 02",
+      "subtitle": "站着 · 竖拍 · 热度 3374",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-02-photo.jpg",
+      "overlay": "catalog-final/sea/sea-02-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-03",
+      "title": "海边站着 03",
+      "subtitle": "站着 · 竖拍 · 热度 40",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-03-photo.jpg",
+      "overlay": "catalog-final/sea/sea-03-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-04",
+      "title": "海边站着 04",
+      "subtitle": "站着 · 竖拍 · 热度 26",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-04-photo.jpg",
+      "overlay": "catalog-final/sea/sea-04-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-05",
+      "title": "海边站着 05",
+      "subtitle": "站着 · 竖拍 · 热度 1143",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-05-photo.jpg",
+      "overlay": "catalog-final/sea/sea-05-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-06",
+      "title": "海边站着 06",
+      "subtitle": "站着 · 竖拍 · 热度 8996",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-06-photo.jpg",
+      "overlay": "catalog-final/sea/sea-06-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-07",
+      "title": "海边站着 07",
+      "subtitle": "站着 · 竖拍 · 热度 110",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-07-photo.jpg",
+      "overlay": "catalog-final/sea/sea-07-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-08",
+      "title": "海边站着 08",
+      "subtitle": "站着 · 横拍 · 热度 254",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "landscape",
+      "photo": "catalog-final/sea/sea-08-photo.jpg",
+      "overlay": "catalog-final/sea/sea-08-line.png",
+      "position": "后置 1×，手机保持水平；先对齐地平线，再让人物落在左右三分线上。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-09",
+      "title": "海边站着 09",
+      "subtitle": "站着 · 横拍 · 热度 71",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "stand",
+      "orientation": "landscape",
+      "photo": "catalog-final/sea/sea-09-photo.jpg",
+      "overlay": "catalog-final/sea/sea-09-line.png",
+      "position": "后置 1×，手机保持水平；先对齐地平线，再让人物落在左右三分线上。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "sea-10",
+      "title": "海边走动 10",
+      "subtitle": "走动 · 竖拍 · 热度 281",
+      "scenes": [
+        "sea"
+      ],
+      "pose": "walk",
+      "orientation": "portrait",
+      "photo": "catalog-final/sea/sea-10-photo.jpg",
+      "overlay": "catalog-final/sea/sea-10-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "放慢速度自然向前走，眼神不要一直看镜头，连续拍多张。",
+      "light": "强光下让身体侧对太阳，脸朝亮天空方向，并稍微降低曝光。"
+    },
+    {
+      "id": "grass-01",
+      "title": "草原站着 01",
+      "subtitle": "站着 · 竖拍 · 热度 720",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/grass/grass-01-photo.jpg",
+      "overlay": "catalog-final/grass/grass-01-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-02",
+      "title": "草原站着 02",
+      "subtitle": "站着 · 竖拍 · 热度 101",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/grass/grass-02-photo.jpg",
+      "overlay": "catalog-final/grass/grass-02-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-03",
+      "title": "草原站着 03",
+      "subtitle": "站着 · 横拍 · 热度 1464",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "landscape",
+      "photo": "catalog-final/grass/grass-03-photo.jpg",
+      "overlay": "catalog-final/grass/grass-03-line.png",
+      "position": "后置 1×，手机保持水平；先对齐地平线，再让人物落在左右三分线上。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-04",
+      "title": "草原站着 04",
+      "subtitle": "站着 · 竖拍 · 热度 957",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/grass/grass-04-photo.jpg",
+      "overlay": "catalog-final/grass/grass-04-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-05",
+      "title": "草原站着 05",
+      "subtitle": "站着 · 竖拍 · 热度 136",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/grass/grass-05-photo.jpg",
+      "overlay": "catalog-final/grass/grass-05-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-06",
+      "title": "草原站着 06",
+      "subtitle": "站着 · 横拍 · 热度 2824",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "landscape",
+      "photo": "catalog-final/grass/grass-06-photo.jpg",
+      "overlay": "catalog-final/grass/grass-06-line.png",
+      "position": "后置 1×，手机保持水平；先对齐地平线，再让人物落在左右三分线上。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-07",
+      "title": "草原站着 07",
+      "subtitle": "站着 · 竖拍 · 热度 3709",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/grass/grass-07-photo.jpg",
+      "overlay": "catalog-final/grass/grass-07-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-08",
+      "title": "草原站着 08",
+      "subtitle": "站着 · 横拍 · 热度 1085",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "landscape",
+      "photo": "catalog-final/grass/grass-08-photo.jpg",
+      "overlay": "catalog-final/grass/grass-08-line.png",
+      "position": "后置 1×，手机保持水平；先对齐地平线，再让人物落在左右三分线上。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-09",
+      "title": "草原站着 09",
+      "subtitle": "站着 · 竖拍 · 热度 182",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/grass/grass-09-photo.jpg",
+      "overlay": "catalog-final/grass/grass-09-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "grass-10",
+      "title": "草原站着 10",
+      "subtitle": "站着 · 横拍 · 热度 121",
+      "scenes": [
+        "grass"
+      ],
+      "pose": "stand",
+      "orientation": "landscape",
+      "photo": "catalog-final/grass/grass-10-photo.jpg",
+      "overlay": "catalog-final/grass/grass-10-line.png",
+      "position": "后置 1×，手机保持水平；先对齐地平线，再让人物落在左右三分线上。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "避免正午顶光；逆光时先保证脸部亮度，不要只顾天空。"
+    },
+    {
+      "id": "mountain-01",
+      "title": "山上站着 01",
+      "subtitle": "站着 · 竖拍 · 热度 320",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-01-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-01-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-02",
+      "title": "山上站着 02",
+      "subtitle": "站着 · 竖拍 · 热度 3709",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-02-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-02-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-03",
+      "title": "山上坐着 03",
+      "subtitle": "坐着 · 竖拍 · 热度 2091",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-03-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-03-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-04",
+      "title": "山上躺着 04",
+      "subtitle": "躺着 · 竖拍 · 热度 33",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "lie",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-04-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-04-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "先让身体形成清晰轮廓，再放松手脚，避免四肢完全重叠。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-05",
+      "title": "山上坐着 05",
+      "subtitle": "坐着 · 竖拍 · 热度 117000",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-05-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-05-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-06",
+      "title": "山上站着 06",
+      "subtitle": "站着 · 竖拍 · 热度 397",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-06-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-06-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-07",
+      "title": "山上站着 07",
+      "subtitle": "站着 · 竖拍 · 热度 1421",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-07-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-07-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-08",
+      "title": "山上坐着 08",
+      "subtitle": "坐着 · 竖拍 · 热度 248",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-08-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-08-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "身体不要完全靠死，双腿前后错开，手自然放在膝盖或身边。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-09",
+      "title": "山上站着 09",
+      "subtitle": "站着 · 竖拍 · 热度 9",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-09-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-09-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    },
+    {
+      "id": "mountain-10",
+      "title": "山上站着 10",
+      "subtitle": "站着 · 竖拍 · 热度 1158",
+      "scenes": [
+        "mountain"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "catalog-final/mountain/mountain-10-photo.jpg",
+      "overlay": "catalog-final/mountain/mountain-10-line.png",
+      "position": "后置 1×，手机保持竖直，镜头约在腰到胸口高度；完整保留头顶和脚下空间。",
+      "action": "重心放在一条腿，肩膀放松，手臂与身体之间留一点空隙。",
+      "light": "利用侧光表现山体层次，人物脸部过暗时转向开阔天空。"
+    }
+  ]
+}

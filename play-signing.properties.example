@@ -1,0 +1,6 @@
+# Copy this file to a private location and fill in the values before signing.
+# Keep the keystore beside this properties file, or use a relative path from it.
+storeFile=upload-key.jks
+storePassword=REPLACE_WITH_KEYSTORE_PASSWORD
+keyAlias=upload
+keyPassword=REPLACE_WITH_KEY_PASSWORD

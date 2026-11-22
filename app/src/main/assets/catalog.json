@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "id": "street",
+      "title": "街边",
+      "description": "靠墙、街角、台阶，找到自然的姿态"
+    },
+    {
+      "id": "cafe",
+      "title": "咖啡店",
+      "description": "窗边、桌边，利用柔和的自然光"
+    },
+    {
+      "id": "park",
+      "title": "公园",
+      "description": "长椅、树荫、小路，轻松拍环境人像"
+    },
+    {
+      "id": "travel",
+      "title": "旅行",
+      "description": "步道、地标、开阔景色，让人和风景一起入画"
+    }
+  ],
+  "shots": [
+    {
+      "id": "bench",
+      "title": "长椅侧坐",
+      "subtitle": "侧身 · 屈膝 · 单手轻撑",
+      "scenes": [
+        "park"
+      ],
+      "pose": "sit",
+      "orientation": "portrait",
+      "photo": "bench-photo.jpg",
+      "overlay": "bench-lines.png",
+      "position": "后置 1× · 手机接近坐姿胸口高度，先对齐长椅边缘",
+      "action": "侧坐、双膝弯曲；一手撑椅，一手举在脸旁",
+      "light": "找明亮阴影处，脸朝开阔亮处。避开脸上的斑驳阳光；点脸对焦后微调曝光。"
+    },
+    {
+      "id": "forest",
+      "title": "林间侧身",
+      "subtitle": "树列引导 · 环境人像",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "forest-photo.jpg",
+      "overlay": "forest-lines.png",
+      "position": "先让树列延伸到远处，手机接近胸口高度",
+      "action": "身体侧向镜头，肩膀放松，双手放身后",
+      "light": "优先侧后方暖光，找脸部有柔和亮度的位置。不要仅靠调亮补救脸部全黑，先转身或换位置。"
+    },
+    {
+      "id": "turn",
+      "title": "林间回头",
+      "subtitle": "背身 · 回眸 · 前景树叶",
+      "scenes": [
+        "park"
+      ],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "turn-photo.jpg",
+      "overlay": "turn-lines.png",
+      "position": "从人物侧后方拍，前景树叶不要挡住脸",
+      "action": "身体背向镜头，轻轻回头，不要过度扭颈",
+      "light": "让阳光从侧后方照亮发丝，脸朝较明亮的开阔处。高反差时换位置，避免强行拉亮整张。"
+    },
+    {
+      "id": "close",
+      "title": "暖光侧脸",
+      "subtitle": "侧脸 · 闭眼 · 近景",
+      "scenes": [],
+      "pose": "stand",
+      "orientation": "portrait",
+      "photo": "close-photo.jpg",
+      "overlay": "close-lines.png",
+      "position": "手机接近眼睛高度，先留出距离，再适当变焦",
+      "action": "侧脸朝向亮处，闭眼，放松下巴和肩膀",
+      "light": "使用柔和侧光；避免直视太阳。若额头和脸颊亮到没有细节，降低曝光或移到柔和光处。"
+    }
+  ]
+}
